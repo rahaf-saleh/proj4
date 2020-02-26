@@ -1,17 +1,8 @@
-print ('welcome here ')
 
-print ('my name is rahaf ')
- 
-print('im studing computer science')
+ print ('my name is rahaf ')
 
-
-
-
-
-
-
-print ('good bye')
-
+print ('im studing computer science')
+print ('im undergraduate ')
 
 
 
